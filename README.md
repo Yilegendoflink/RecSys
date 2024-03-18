@@ -1,2 +1,6 @@
-# RecSys
-# Project for recommand system learning
+# Project for recommender system - elearning
+## Group information: RecSys Explorers
+- Zhang Kangying
+- HAN Meilan
+- NI Yiming
+- LIAO Liyi
